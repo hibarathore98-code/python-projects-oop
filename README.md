@@ -17,7 +17,11 @@ OOP Used: Class-Object Architecture and Data Management using lists.
 Concepts Covered:
 
 1.Classes & Objects
+<br>
 2.Encapsulation (__private_vars)
+<br>
 3.Composition & Logic Building
+<br>
 4.Python Dictionaries & Lists
+<br>
 5.datetime Library for Timestamping
